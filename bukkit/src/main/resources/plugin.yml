@@ -1,0 +1,7 @@
+name: LeafDecayNt
+version: '${version}'
+author: p0t4t0sandwich
+description: Plugin that prevents leaves from decaying
+main: dev.neuralnexus.leafdecaynt.bukkit.BukkitLeafDecayNtPlugin
+depend: []
+folia-supported: true
